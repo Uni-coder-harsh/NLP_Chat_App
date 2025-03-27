@@ -9,7 +9,7 @@ Entity detection / tone detection real time chat app using NLP and socket networ
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/NLPChatApp.git
+    git clone https://github.com/Uni-coder-harsh/NLP_Chat_App.git
     ```
 2. Navigate to the project directory:
     ```bash
