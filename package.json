@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devalparikh/NLP_Chat_App.git"
+    "url": "git+https://github.com/Uni-coder-Harsh/NLP_Chat_App.git"
   },
-  "author": "Deval Parikh",
+  "author": "Harsh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devalparikh/NLP_Chat_App/issues"
+    "url": "https://github.com/Uni-coder-Harsh/NLP_Chat_App/issues"
   },
-  "homepage": "https://github.com/devalparikh/NLP_Chat_App#readme",
+  "homepage": "https://github.com/Uni-coder-Harsh/NLP_Chat_App#readme",
   "devDependencies": {
     "concurrently": "^5.3.0"
   }
